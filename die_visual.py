@@ -22,4 +22,5 @@ for value in poss_results:
 title = "Results of Rolling One D6 1,000 Times"
 labels = {'x': 'Result', 'y': 'Frequency of Result'}
 fig = px.bar(x=poss_results, y=frequencies, title=title, labels=labels)
+fig.write_html('die_visual.html')
 fig.show()

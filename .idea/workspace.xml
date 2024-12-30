@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb97d77c-b016-484b-94c1-cd712bcd8870" name="Changes" comment="create plotly bar for 2 die" />
+    <list default="true" id="eb97d77c-b016-484b-94c1-cd712bcd8870" name="Changes" comment="create plotly bar for dice with diff face">
+      <change beforePath="$PROJECT_DIR$/dice_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice_visual.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.dice_visual.executor": "Run",
+    "Python.dice_visual_d6d10.executor": "Run",
     "Python.die_visual.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -106,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735593774772</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create plotly bar for dice with diff face">
+      <option name="closed" value="true" />
+      <created>1735594082248</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735594082248</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -114,7 +125,8 @@
     <MESSAGE value="create die class" />
     <MESSAGE value="create plotly bar chart" />
     <MESSAGE value="create plotly bar for 2 die" />
-    <option name="LAST_COMMIT_MESSAGE" value="create plotly bar for 2 die" />
+    <MESSAGE value="create plotly bar for dice with diff face" />
+    <option name="LAST_COMMIT_MESSAGE" value="create plotly bar for dice with diff face" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
